@@ -12,6 +12,3 @@ This project demonstrates a minimal setup of an AI agent using Google's **Gemini
 - ✅ Runs synchronously for simplicity
 
 ---
-
-## 📁 Project Structure
-

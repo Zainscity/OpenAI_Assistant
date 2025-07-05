@@ -24,7 +24,7 @@ def main():
         )
     result = Runner.run_sync(
         assistant,
-        "What is my name?",
+        "What is the capital of Pakistan?"
     )
     print(result.final_output)
 
